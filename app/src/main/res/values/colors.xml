@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_black">#0A0A0A</color>
+    <color name="card_dark">#181818</color>
+    <color name="gold_primary">#E5C158</color>
+    <color name="gold_gradient_end">#B38E2A</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#AAAAAA</color>
+    <color name="accent_blue">#1E88E5</color>
+</resources>
